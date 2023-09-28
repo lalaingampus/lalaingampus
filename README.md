@@ -7,6 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalaingampus" alt="lalaingampus" /></a> </p>
 
 - 🔭 I’m currently working on [shipment-tracking, bag-cash-management-odoo](http://143.198.216.194/login, http://202.46.93.14/web/login)
+   - And some project on the gitlab platform, like web-eproc, bag-cash-management-odoo, and material management
 
 - 🌱 I’m currently learning **Odoo, React, Bootstrap, Responsive, Javascript, Python**
 
